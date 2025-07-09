@@ -61,3 +61,4 @@ def get_bot_reply(memory, user_msg):
     except Exception as e:
         print(f"💥 Unexpected error: {e}")
         return "💀 Bro I had a brain fart... Try again?"
+

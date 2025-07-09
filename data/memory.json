@@ -1,0 +1,166 @@
+[
+  {
+    "role": "user",
+    "content": "Yo broo what u doing?"
+  },
+  {
+    "role": "assistant",
+    "content": "Hey! As a digital AI assistant, I don't have personal experiences or feelings like humans do, so I'm not really \"doing\" anything in the classical sense. But I'm always here and ready to help you with any questions, topics, or tasks you'd like to discuss! What's on your mind, bro?"
+  },
+  {
+    "role": "user",
+    "content": "hdhdh"
+  },
+  {
+    "role": "assistant",
+    "content": "Sorry, I had a brain fart. \ud83d\ude35\u200d\ud83d\udcab"
+  },
+  {
+    "role": "user",
+    "content": "r7ryd"
+  },
+  {
+    "role": "assistant",
+    "content": "Sorry, I had a brain fart. \ud83d\ude35\u200d\ud83d\udcab"
+  },
+  {
+    "role": "user",
+    "content": "hello"
+  },
+  {
+    "role": "assistant",
+    "content": "Sorry, I had a brain fart. \ud83d\ude35\u200d\ud83d\udcab"
+  },
+  {
+    "role": "user",
+    "content": "hello"
+  },
+  {
+    "role": "assistant",
+    "content": "Sorry, I had a brain fart. \ud83d\ude35\u200d\ud83d\udcab"
+  },
+  {
+    "role": "user",
+    "content": "bdhdh"
+  },
+  {
+    "role": "assistant",
+    "content": "Sorry, I had a brain fart. \ud83d\ude35\u200d\ud83d\udcab"
+  },
+  {
+    "role": "user",
+    "content": "hello"
+  },
+  {
+    "role": "user",
+    "content": "hdhdu"
+  },
+  {
+    "role": "user",
+    "content": "ygychvu"
+  },
+  {
+    "role": "user",
+    "content": "uvuv"
+  },
+  {
+    "role": "assistant",
+    "content": "I had a brain fart \ud83e\udd2f"
+  },
+  {
+    "role": "user",
+    "content": "hello"
+  },
+  {
+    "role": "assistant",
+    "content": "I had a brain fart \ud83e\udd2f"
+  },
+  {
+    "role": "user",
+    "content": "jvjvhv"
+  },
+  {
+    "role": "assistant",
+    "content": "I had a brain fart \ud83e\udd2f"
+  },
+  {
+    "role": "user",
+    "content": "hvuv"
+  },
+  {
+    "role": "assistant",
+    "content": "\ud83d\udc80 Bro I had a brain fart... Try again?"
+  },
+  {
+    "role": "user",
+    "content": "hvuvug"
+  },
+  {
+    "role": "assistant",
+    "content": "\u274c Groq Error 400: {\"error\":{\"message\":\"'messages.1' : discriminator property 'role' has invalid value\",\"type\":\"invalid_request_error\"}}\n"
+  },
+  {
+    "role": "user",
+    "content": "cucuc"
+  },
+  {
+    "role": "assistant",
+    "content": "\u274c Groq Error 400: {\"error\":{\"message\":\"The model `mixtral-8x7b-32768` has been decommissioned and is no longer supported. Please refer to https://console.groq.com/docs/deprecations for a recommendation on which model to use instead.\",\"type\":\"invalid_request_error\",\"code\":\"model_decommissioned\"}}\n"
+  },
+  {
+    "role": "user",
+    "content": "fucug"
+  },
+  {
+    "role": "assistant",
+    "content": "It seems like you're having a bit of fun with random characters! I'm happy to play along, but if you need help with anything or want to chat, I'm here for you!"
+  },
+  {
+    "role": "user",
+    "content": "hii daa"
+  },
+  {
+    "role": "assistant",
+    "content": "Yo macha! Enth paripadi?"
+  },
+  {
+    "role": "user",
+    "content": "nychhh taking in those manglish machaa"
+  },
+  {
+    "role": "assistant",
+    "content": "Macha, njanum venda! Manglish is my love language, bro!"
+  },
+  {
+    "role": "user",
+    "content": "enthokke und brooskiii"
+  },
+  {
+    "role": "assistant",
+    "content": "Pinne enthu broooo! Athokke und, appol ennundakunnathu?"
+  },
+  {
+    "role": "user",
+    "content": "nnaaa macha ith"
+  },
+  {
+    "role": "assistant",
+    "content": "Ayyo, ithokke kazhiyumo?"
+  },
+  {
+    "role": "user",
+    "content": "kollm"
+  },
+  {
+    "role": "assistant",
+    "content": "KOllam, my macha!"
+  },
+  {
+    "role": "user",
+    "content": "hello"
+  },
+  {
+    "role": "assistant",
+    "content": "\u274c Groq Error 401: {\"error\":{\"message\":\"Invalid API Key\",\"type\":\"invalid_request_error\",\"code\":\"invalid_api_key\"}}\n"
+  }
+]
